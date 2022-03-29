@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(34, 34, 34);
+    
+    text-align: center;
+}
+section{
+    background-color: rgb(236, 236, 236);
+    width: 200pt;
+    border-radius: 5mm;
+    margin: auto;
+    padding: 15px;
+    box-shadow: 5px 5px 10px #0c0c0ca9;
+}
